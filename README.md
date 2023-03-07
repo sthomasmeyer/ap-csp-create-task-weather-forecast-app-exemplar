@@ -116,11 +116,11 @@ _The algorithm works by first initializing a for loop that cycles through each e
 
 - first call:
 
-**includes([“Austin”, “Houston”, “Dallas”], “San Antonio”);**
+**_includes([“Austin”, “Houston”, “Dallas”], “San Antonio”);_**
 
 - second call:
 
-**includes([“San Francisco”, “Los Angeles”, “San Diego”], “San Francisco”);**
+**_includes([“San Francisco”, “Los Angeles”, “San Diego”], “San Francisco”);_**
 
 2. Describe what condition(s) is being tested by each call to the procedure.
 
