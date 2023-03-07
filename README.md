@@ -114,8 +114,13 @@ _The algorithm works by first initializing a for loop that cycles through each e
 
 1. Describes two calls to the procedure identified in written response 3(c). Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.
 
-- first call: **includes([“Austin”, “Houston”, “Dallas”], “San Antonio”);**
-- second call: **includes([“San Francisco”, “Los Angeles”, “San Diego”], “San Francisco”);**
+- first call:
+
+**includes([“Austin”, “Houston”, “Dallas”], “San Antonio”);**
+
+- second call:
+
+**includes([“San Francisco”, “Los Angeles”, “San Diego”], “San Francisco”);**
 
 2. Describe what condition(s) is being tested by each call to the procedure.
 
@@ -129,5 +134,10 @@ _The second call tests the **includes** function by passing a list of cities in 
 
 3. Identifies the result of each call.
 
-- result of the first call: _false_
-- result of the second call: _true_
+- result of the first call:
+
+_false_
+
+- result of the second call:
+
+_true_
