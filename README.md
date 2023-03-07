@@ -1,6 +1,6 @@
 # AP CSP Create Task Exemplar: A Weather Forecasting App
 
-Programming is a collaborative and creative process that brings ideas to life through the development of software. In the Create performance task, you will design and implement a program that might solve a problem, enable innovation, explore personal interests, or express creativity. Your submission must include elements listed in the "Submission Requirements" section.
+Programming is a collaborative and creative process that brings ideas to life through the development of software. In the Create performance task, you will design and implement a program that might solve a problem, enable innovation, explore personal interests, or express creativity. Your submission must include elements listed in the following "Submission Requirements" sections.
 
 ### Program Code Submission Requirements
 
@@ -34,7 +34,7 @@ It may **NOT** contain:
 - any distinguishing information about yourself
 - voice narration (though text captions are encouraged)
 
-Your video must be:
+It must be:
 
 - either .mp4, .wmv, .avi, or .mov format
 - no more than 1min in length
