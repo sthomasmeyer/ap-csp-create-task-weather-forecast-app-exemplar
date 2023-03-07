@@ -46,9 +46,9 @@ Submit your responses to prompts 3(a) – 3(d), which are described below. Your 
 
 **3(a).** In ~150 total words provide a written response that does all three of the following:
 
-1. Describes the overall **purpose** of your program
+1. Describes the overall **purpose** of the program
 
-_This program provides a weather forecast for a user-selected city and state. It uses an API to gather historical weather data for a selected city and state and then presents a five-day forecast._
+_The overall purpose of my program is to provide users with accurate and up-to-date weather forecasts for their selected locations. Weather forecasts are essential for planning outdoor activities, scheduling travel, and preparing for severe weather events. By providing reliable weather information in an accessible and user-friendly format, my app aims to help users make informed decisions and stay safe and prepared in any weather condition. With this program, users will be able to stay ahead of the weather and plan their day-to-day activities with greater confidence and ease._
 
 2. Describes what **functionality** of the program is demonstrated in the video
 
@@ -62,11 +62,11 @@ _The user inputs a state and city, and the program provides a five-day weather f
 
 1. The first program code segment must show how data have been stored in the list.
 
-![!](./images/csp-weather-app-3b-1-screenshot.png)
+![!](./images/ap-csp-weather-app-3b-1-screenshot.png)
 
 2. The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program’s purpose
 
-![!](./images/csp-weather-app-3b-2-screenshot.png)
+![!](./images/ap-csp-weather-app-3b-2-screenshot.png)
 
 Then provide a ~200 word written response that does all three of the following:
 
@@ -92,11 +92,11 @@ _Without the use of the ‘arrayOfForecasts’ list, the program code would have
 - contains and uses one or more **parameters** that have an effect on the functionality of the procedure
 - implements an **algorithm** that includes sequencing, selection, and iteration
 
-![!](./images/csp-weather-app-3c-1-screenshot.png)
+![!](./images/ap-csp-weather-app-3c-1-screenshot.png)
 
 2. The second program code segment must show where your student-developed procedure is being called in your program
 
-![!](./images/csp-weather-app-3c-2-screenshot.png)
+![!](./images/ap-csp-weather-app-3c-2-screenshot.png)
 
 Then, provide a ~200 word written response that does both of the following:
 
