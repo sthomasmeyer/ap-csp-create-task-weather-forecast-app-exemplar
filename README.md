@@ -102,11 +102,11 @@ Then, provide a ~200 word written response that does both of the following:
 
 3. Describe in general what the identified procedure does and how it contributes to the overall functionality of the program
 
-_The includes procedure determines whether an element is already in an array, and it is a useful function for checking whether a city is already in the city list. This function helps to prevent users from requesting information about a city that does not exist in the database. It is called in the confirmStateBtn function, which generates a list of cities to populate a dropdown menu based on the selected state._
+_The includes procedure determines whether an element is already in an array. It checks whether a city is already in the city list. This function helps to prevent users from requesting information about a city that does not exist in the database. It is called in the callback function aligned to the confirmStateBtn click-event, which generates a list of cities to populate a dropdown menu based on the selected state._
 
 4. Explain in detailed steps how the algorithm implemented in the identified procedure works. Your explanation must be detailed enough for someone else to recreate it.
 
-_The algorithm implemented in the includes function is straightforward. The function takes two parameters, an array and an element, and checks whether the element is already in the array. It does this by iterating through the array and comparing each element to the given element. If the element is found in the array, the function returns true. If it is not found, the function returns false._
+_The algorithm implemented in the includes function is straightforward. The function takes two parameters, an array and an element, and checks whether the element is already in the array. It does this by iterating through the array and comparing each element to the given element. If the element is in the array, the function returns true. If it is not, the function returns false._
 
 _The algorithm works by first initializing a for loop that cycles through each element of the array. At each iteration, the function compares the current element to the given element. If the current element is equal to the given element, the function immediately returns true to indicate that the element is in the array. If the function reaches the end of the loop without finding the element, it returns false to indicate that the element is not in the array._
 
