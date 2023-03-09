@@ -21,7 +21,7 @@ In your program you must include student-developed program code that contains th
 - Calls to your student-developed procedure
 - Instructions for **output** (tactile, audible, visual, or textual) **based on input** and program functionality
 
-### Video Submission Requirements
+### Video Submission Requirements && Exemplar
 
 Submit one video file that demonstrates your program running. It must include:
 
